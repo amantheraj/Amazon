@@ -1,2 +1,2 @@
 # Amazon
-it is a online shopping
+it is a online shopping website
